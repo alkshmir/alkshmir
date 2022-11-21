@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently interested in Kubernetes, Containers, DevOps and productivity improvement.
-- 🌱 I’m currently learning Service Mesh, Distributed Storage System and Golang.
+- 🌱 I’m currently learning Service Mesh, High Availability Architechture and Golang.
 <!-- - ✒️ I researched on vital-sensing using commodity Wi-Fi in graduate school. 
 -->
 ## 🧰 Languages and Tools:
