@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Certifications
+- AWS Certified Solutions Architect Associate (2022)
+- Certified Kubernetes Administrator (2023)
+
+## Tech Posts (in Japanese)
+- [Qiita](https://qiita.com/alkshmir)
 
