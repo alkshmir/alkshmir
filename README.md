@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Certifications
+- IPA Network Specialist Examination (2022)
 - AWS Certified Solutions Architect Associate (2022)
 - Certified Kubernetes Administrator (2023)
 
