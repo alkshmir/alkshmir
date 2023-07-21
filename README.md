@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - IPA Network Specialist Examination (2022)
 - AWS Certified Solutions Architect Associate (2022)
 - Certified Kubernetes Administrator (2023)
+- Certified Kubernetes Application Developer (2023)
 
 ## Tech Posts (in Japanese)
 - [Qiita](https://qiita.com/alkshmir)
