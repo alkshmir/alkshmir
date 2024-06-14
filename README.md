@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 ## Tech Posts (in Japanese)
 - [Qiita](https://qiita.com/alkshmir)
 
+## Other
+[![Rating](https://badgen.org/img/atcoder/alkshmir/rating/algorithm?style=flat)](https://atcoder.jp/users/alkshmir?contestType=algo)
+
+
